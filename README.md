@@ -1,7 +1,7 @@
 ![Thumbnail](https://i.imgur.com/oLvW955.png)
 
 # Notifications Plugin for phpDolphin
-https://www.bostrot.pro/
+https://bostrot.pro/
 
 ## Installation
 1. Clone or fork this repository and upload the folder into the /plugins directory
