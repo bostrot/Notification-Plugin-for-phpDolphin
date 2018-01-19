@@ -2,11 +2,11 @@
 // Notifications - Plugin           			                        \\
 // Copyright © Eric Trenkel - Bostrot. All rights reserved.			    \\
 //----------------------------------------------------------------------\\
-// https://www.bostrot.pro/                                             \\
+// https://www.bostrot.pro/        https://codecanyon.net/user/bostrot_ \\
 //======================================================================\\
 
 Installation:
-1. Clone or fork this repository and upload the folder into the /plugins directory
+1. Extract the .zip file and upload the notifications folder into the /plugins directory
 on your phpDolphin installation. 
 2. Go to your admin panel 
 (usually your_website/index.php?a=admin) log in, click on the "Plugins" tab
@@ -21,5 +21,5 @@ Questions:
 If you have any questions, feel free to ask me at the page where you bought
 this plugin under the "Comments" section.
 
-This project/plugin is licensed under CCPL for non-commercial use only. If you need
-an extended license for commercial use contact me at license@bostrot.pro.
+
+Thanks for buying my notification plugin!
