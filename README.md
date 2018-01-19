@@ -1,9 +1,12 @@
 ![Thumbnail](https://i.imgur.com/oLvW955.png)
 
 # Notifications Plugin for phpDolphin
-https://bostrot.pro/
+This plugin allows phpDolphin users to receive notifications about events like new messages, friend requests, etc.
+Test this plugin at https://botty.cf/
 
 ## Installation
+Make sure you have SSL set up for this to work with most browsers.
+
 1. Clone or fork this repository and upload the folder into the /plugins directory
 on your phpDolphin installation. 
 2. Go to your admin panel 
@@ -21,3 +24,6 @@ If you have any questions, feel free to create an Issue or Pull request.
 ## License
 This project/plugin is licensed under CCPL for non-commercial use only. If you need
 an extended license for commercial use contact me at license@bostrot.pro.
+
+## Demo / How it works:
+[![Demo on YouTube](http://img.youtube.com/vi/heIQIQUhaVs/0.jpg)](http://www.youtube.com/watch?v=heIQIQUhaVs "Demo on YouTube")
