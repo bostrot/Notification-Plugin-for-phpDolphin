@@ -1,4 +1,3 @@
-![Thumbnail](https://i.imgur.com/oLvW955.png)
 
 # Notifications Plugin for phpDolphin
 This plugin allows phpDolphin users to receive notifications about events like new messages, friend requests, etc.
