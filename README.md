@@ -26,3 +26,13 @@ an extended license for commercial use contact me at license@bostrot.pro.
 
 ## Demo / How it works:
 [![Demo on YouTube](http://img.youtube.com/vi/heIQIQUhaVs/0.jpg)](http://www.youtube.com/watch?v=heIQIQUhaVs "Demo on YouTube")
+
+## Help
+
+You are welcome to contribute with pull requests, bug reports, ideas and donations.
+
+Bitcoin: [1ECPWeTCq93F68BmgYjUgGSV11XuzSPSeM](https://www.blockchain.com/btc/payment_request?address=1ECPWeTCq93F68BmgYjUgGSV11XuzSPSeM&currency=USD&nosavecurrency=true&message=Bostrot)
+
+PayPal: [paypal.me/bostrot](https://paypal.me/bostrot)
+
+Hosting: [2.50$ VPS at VULTR](https://www.vultr.com/?ref=7505919)
